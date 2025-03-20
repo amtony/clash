@@ -31,6 +31,8 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,Anthropic.com
 DOMAIN-SUFFIX,opera-api.com
 DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN,aistudio.google.com
 DOMAIN,bard.google.com
 DOMAIN,ai.google.dev
